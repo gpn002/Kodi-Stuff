@@ -1,0 +1,9 @@
+[B]Version 0.0.1[/B]
+- First version 1
+
+[B]Version 0.0.2[/B]
+- Added new icon
+
+[B]Version 0.0.3[/B]
+- Added to GitHub.com
+

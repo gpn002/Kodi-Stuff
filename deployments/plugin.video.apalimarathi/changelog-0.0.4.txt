@@ -1,0 +1,12 @@
+[B]v0.0.1[/B]
+Initial Release
+
+[B]v0.0.2[/B]
+Added Functionality for A-Z and Years
+
+[B]v0.0.3[/B]
+Added vid.me resolving until URLResolver accepts my addition.
+
+[B]v0.0.4[/B]
+Cleaned up unnecessary files.
+
