@@ -24,6 +24,7 @@ APALIMARATHI_MOVIES_URL = "http://mtalky.com/"
 APALIMARATHI_MOVIES_PAGE_URL = "http://mtalky.com/OnlineList.aspx?Show=Picture&page="
 APALIMARATHI_MOVIES_ALPHA_URL = "http://mtalky.com/OnlineList.aspx?Show=Picture&NameStartWithLetter="
 APALIMARATHI_MOVIES_YEARS_URL = "http://mtalky.com/OnlineList.aspx?Show=Picture&ReleaseYear="
+APALIMARATHI_NATAKS_Page_URL = "http://mtalky.com/OnlineList.aspx?Show=Nataks"
 
 def addDir(name, url, mode, iconimage, bannerImage='', lang='', infolabels=None):
     u=sys.argv[0]+"?url="+urllib.quote_plus(url)+"&mode="+str(mode)+"&name="+urllib.quote_plus(name)+"&lang="+urllib.quote_plus(lang)+"&bannerImage="+urllib.quote_plus(bannerImage)+"&iconImage="+urllib.quote_plus(iconimage)
